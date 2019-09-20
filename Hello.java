@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String[] args){
-		system.out.println("my frist git...");
+	
+	    system.out.println("my frist git2---------------");
 	}
-}
